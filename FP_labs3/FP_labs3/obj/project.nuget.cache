@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xtf77R8/qaSznO0fKKHXFDoI+qszRbWPWx894848y9+19MqfXJRupmsZQPJ/smmAy2c3RWDX8V6aIG4nWIcDvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pavlo\\source\\repos\\FP_labs3\\FP_labs3\\FP_labs3.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pavlo\\.nuget\\packages\\fsharp.core\\6.0.6\\fsharp.core.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

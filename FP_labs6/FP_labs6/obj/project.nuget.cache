@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RC7StNgRJMQuNlrYLO13U8QERFftIG4QBwxkOAeXJLOqiqFxCA82Fy15zin9l73UYHLIJZEYFa8LuJ9UJUiHhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pavlo\\source\\repos\\FP_labs6\\FP_labs6\\FP_labs6.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pavlo\\.nuget\\packages\\fsharp.core\\6.0.6\\fsharp.core.6.0.6.nupkg.sha512",
+    "C:\\Users\\pavlo\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\pavlo\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
